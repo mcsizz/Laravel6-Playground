@@ -21,7 +21,7 @@ Assumes tools are installed and ready to go...
     - git commit -m "Initial commit"
 - Create new repository on Github
 - Add repo to project
-    - git remote add github https://github.com/mcsizz/Laravel-6-From-Scratch.git
+    - git remote add github https://github.com/mcsizz/Laravel6-Playground.git
 - Perform initial push to new repo on Github
     - git push -u github master
 
